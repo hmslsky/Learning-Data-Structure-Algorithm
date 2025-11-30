@@ -1,0 +1,65 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+#IDEA
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Vscode
+.vscode/
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+.jython_cache/
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# python
+**/__pycache__/
+
+# file
+**/reference/
+*.tsv
+**/logs/
+**/99_unclassed/
+**/javaPractice/
+*.java
+*.graphml
+*.pdf
+*.docx
+*.doc
+*.txt
+*.mobi
+*.xlsx
+*.xls
+*.xmind
+*.zip
+*.rtf
+# seafile-ignore.txt
+
+# Cursor files
+.cursor/
+.cursor
+cursor.json
+
+
+# obsidian
+.obsidian/
+
+# jupyter
+**/.ipynb*
+
+
+# lk
+a-personal-resources/
+.DS_Store
